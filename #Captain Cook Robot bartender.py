@@ -18,4 +18,6 @@ else:print("That is not available today") or exit()
 quantity=int(input("How many of that would you like? \n"))
 bill= price * quantity
 print (f"Okay {name} that would be {bill} dollars")
+print("I am Blesonaldo lets take over the world")
     
+
